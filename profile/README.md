@@ -17,6 +17,7 @@ We explore the intersection of the [Verus DREAM framework](https://verus.io) and
 | [`dream-pbaas-provisioning`](https://github.com/BuildWithDreams/dream-pbaas-provisioning) | Ansible playbooks for idempotent VPS provisioning |
 | [`docker-verusd`](https://github.com/BuildWithDreams/docker-verusd) | Dockerized Verus Protocol blockchain nodes |
 | [`dream-info`](https://github.com/BuildWithDreams/dream-info) | DREAM framework — Decentralized, Rights-preserving, Encrypted Application Model |
+| [`dream-session-digest`](https://github.com/BuildWithDreams/dream-session-digest) | Nightly session digest — Venice summaries, GitHub evidence, email + Jekyll blog |
 | [`dream-blog`](https://buildwithdreams.github.io/dream-blog) | Daily session digests and work logs |
 
 ## How We Work
